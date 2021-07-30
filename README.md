@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imahoooman
+- 👋 Hi, I’m @VBlazhenko
 - 👀 I’m interested in Python, Java, Websites, Bots
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on :/
